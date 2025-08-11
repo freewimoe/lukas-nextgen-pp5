@@ -1,0 +1,12 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+plotly>=5.22
+seaborn>=0.13
+joblib>=1.4
+python-dotenv>=1.0
+pytest>=8.3
+ruff>=0.5
+black>=24.4
+optuna>=3.6
