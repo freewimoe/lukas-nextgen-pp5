@@ -591,7 +591,19 @@ jetzt gib mir commit und push
 
 _**Assistant**_
 
-Perfekt! Lass mich das für dich committen und pushen. Zuerst schaue ich den aktuellen Git-Status an: 
+Perfekt! Lass mich das für dich committen und pushen. Zuerst schaue ich den aktuellen Git-Status an: Oh! Das `` Verzeichnis ist im staging. Das soll nicht committed werden. Lass mich das erst korrigieren: Da es noch keine Commits gibt, muss ich das anders machen: Perfekt! Jetzt können wir die relevanten Dateien hinzufügen und committen: Sehr gut! Jetzt commit ich den ersten Meilenstein: 
+
+---
+
+_**User**_
+
+und jetzt commit und pushen?
+
+---
+
+_**Assistant**_
+
+
 
 ---
 
