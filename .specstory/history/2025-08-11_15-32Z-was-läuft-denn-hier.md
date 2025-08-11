@@ -603,7 +603,19 @@ und jetzt commit und pushen?
 
 _**Assistant**_
 
+Ja, genau! Lass mich das jetzt committen und pushen: 
 
+---
+
+_**User**_
+
+welchen push befehl?
+
+---
+
+_**Assistant**_
+
+Ich sehe das GitHub Repository! Lass mich zuerst das remote repository hinzufügen und dann committen und pushen: 
 
 ---
 
