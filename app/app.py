@@ -8,7 +8,7 @@ sys.path.insert(0, str(project_root))
 
 from app_pages import (
     project_summary, eda, train_model, predict, metrics,
-    community_impact, recommendations
+    community_impact, recommendations, german_insights
 )
 
 st.set_page_config(
@@ -20,6 +20,7 @@ st.set_page_config(
 PAGES = {
     "📘 Project Summary": project_summary.render,
     "🔎 EDA": eda.render,
+    "🇩🇪 Deutsche Erkenntnisse": german_insights.render,
     "🧠 Train Model": train_model.render,
     "📈 Predict": predict.render,
     "🧪 Metrics": metrics.render,
