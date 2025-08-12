@@ -1,0 +1,32 @@
+{
+  "creation_date": "2025-08-12 12:22:32",
+  "data_size": {
+    "youth_participants": 500,
+    "financial_months": 36
+  },
+  "model_performance": {
+    "youth_engagement": {
+      "best_model": "Naive Bayes",
+      "accuracy": 0.67,
+      "f1_score": 0.5352112676056338
+    },
+    "financial_forecasting": {
+      "total_donations": {
+        "model_type": "Linear Regression",
+        "r2_score": 0.1871568505955049
+      },
+      "net_result": {
+        "model_type": "Linear Regression",
+        "r2_score": -0.7803941914248891
+      },
+      "building_maintenance_costs": {
+        "model_type": "Linear Regression",
+        "r2_score": -1.6430099130680818
+      }
+    }
+  },
+  "feature_counts": {
+    "youth_features": 14,
+    "financial_features": 10
+  }
+}
