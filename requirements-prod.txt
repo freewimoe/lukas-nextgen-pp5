@@ -1,0 +1,14 @@
+# Production Requirements - nur was für das ML-System nötig ist
+streamlit==1.38.0
+pandas==2.2.3
+numpy==2.2.1
+plotly==6.3.0
+scikit-learn==1.6.0
+joblib==1.4.2
+
+# Data processing
+pathlib2==2.3.7.post1
+openpyxl==3.1.5
+
+# Optional: Performance improvements
+narwhals==2.1.1
